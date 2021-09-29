@@ -16,5 +16,5 @@ The model was built using Tensorflow Sequential API :
 Google Colab Project : https://colab.research.google.com/drive/1OfA9R0ePR88ibLOIBDGmj3mDABfdanNh?usp=sharing
 Medium Publication : https://rishittoteja.medium.com/nasdaq-stock-price-forecasting-with-lstm-ec7d2716caa5
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Faboveintelligent.com%2Fthe-a-i-gold-mine-predicting-stock-market-success-19082ec87ef5&psig=AOvVaw1qK8DKp4kfkDtlDgJB0toO&ust=1632992474438000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj6trDpo_MCFQAAAAAdAAAAABAD)
+![alt text](https://miro.medium.com/max/1400/1*xR4m0oOKz_jRgQU4Oge53g.jpeg)
 
