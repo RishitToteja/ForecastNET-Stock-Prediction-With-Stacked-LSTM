@@ -1,4 +1,4 @@
-# NASDAQ-Forecasting-With-Stacked-LSTM
+# ForecastNET : Stock Prediction With Stacked LSTM
 
 Made a Deep learning model, which could predict NASDAQ stock prices (National Association of Securities Dealers Automated Quotations).
 The NASDAQ stock price dataset was obtained from YAHOO Finance. Dataset included opening and closing prices of the last five years (September 2016 to September 2021).
@@ -17,4 +17,3 @@ Google Colab Project : https://colab.research.google.com/drive/1OfA9R0ePR88ibLOI
 Medium Publication : https://rishittoteja.medium.com/nasdaq-stock-price-forecasting-with-lstm-ec7d2716caa5
 
 ![alt text](https://miro.medium.com/max/1400/1*xR4m0oOKz_jRgQU4Oge53g.jpeg)
-
